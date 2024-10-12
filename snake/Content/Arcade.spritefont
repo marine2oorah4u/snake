@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics">
+	<Asset Type="Graphics:FontDescription">
+		<FontName>Invasion2000.ttf</FontName>
+		<Size>16</Size>
+		<Spacing>1</Spacing>
+		<UseKerning>true</UseKerning>
+		<Style>Regular</Style>
+		<DefaultCharacter>&#248;</DefaultCharacter>
+		<CharacterRegions>
+		  <CharacterRegion>
+			<Start>&#32;</Start>
+			<End>&#55295;</End>
+		  </CharacterRegion>
+		  <CharacterRegion>
+			<Start>&#57344;</Start>
+			<End>&#65533;</End>
+		  </CharacterRegion>
+		</CharacterRegions>	
+	</Asset>
+</XnaContent>
